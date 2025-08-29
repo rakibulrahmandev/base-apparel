@@ -10,8 +10,8 @@
     --color-neutral-gray-900: hsl(0, 6%, 24%);
 
     /* ------------------------------------ gradients colors */
-    --color-gradient-light: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
-    --color-gradient-pink: linear-gradient(135deg, hsl(0, 80%, 86%,), hsl(0, 74%, 74%));
+    --gradient-color-light: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
+    --gradient-pink: linear-gradient(135deg, hsl(0, 80%, 86%,), hsl(0, 74%, 74%));
     
     /* ------------------------------------ gradients colors */
     --font-josefin: "Josefin Sans", sans-serif;
